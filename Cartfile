@@ -1,0 +1,13 @@
+github "ddddxxx/LyricsProvider"
+
+github "ddddxxx/MusicPlayer" "master"
+
+github "ddddxxx/GenericID"
+
+github "ddddxxx/Semver"
+
+github "ddddxxx/SwiftyOpenCC"
+
+github "SnapKit/SnapKit" ~> 3.1.2
+
+github "shpakovski/MASShortcut"
